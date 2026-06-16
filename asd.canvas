@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"c9132fe1ddd6f618","x":80,"y":-220,"width":400,"height":400,"type":"file","file":"zxczxczxc.md"},
-		{"id":"7febd7938fcfb93b","x":-360,"y":80,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[
-		{"id":"4f8b4770b7c10df1","fromNode":"7febd7938fcfb93b","fromSide":"bottom","toNode":"c9132fe1ddd6f618","toSide":"bottom"}
-	]
-}
